@@ -21,7 +21,9 @@ I am a Ph.D. student at AI, Xidian University. My research interests include rem
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by TGRS (IF=7.5) !
+- *2025.11*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
+- *2025.10*: &nbsp;🎉🎉 Our paper is accepted by JSTAR!
+- *2024.12*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
 
 # 📝 Publications 
 
