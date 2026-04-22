@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am in Xidian University. My research interests include remote sensing image processing, vision-language reasoning, and multimodal learning.
+I am in Xidian University. My research interests include remote sensing image interpretation, vision-language reasoning, and multimodal learning.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper is accepted by TIP!
 - *2025.11*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
 - *2025.10*: &nbsp;🎉🎉 Our paper is accepted by JSTAR!
 - *2024.12*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
