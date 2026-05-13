@@ -22,11 +22,12 @@ I am in Xidian University. My research interests include remote sensing image in
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 Our paper is accepted by TIP!
 - *2025.11*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
 - *2025.10*: &nbsp;🎉🎉 Our paper is accepted by JSTAR!
 - *2024.12*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
-- *2022.8*: &nbsp;🎉🎉 Our paper is accepted by GRSL!
-- *2022.7*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
+- *2022.08*: &nbsp;🎉🎉 Our paper is accepted by GRSL!
+- *2022.07*: &nbsp;🎉🎉 Our paper is accepted by TGRS!
 
 # 📝 Publications 
 
